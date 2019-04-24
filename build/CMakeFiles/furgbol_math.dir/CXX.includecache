@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/calc.h
+
+/home/aluno/Documentos/lucas/furgbol_io/src/calc.cpp
+calc.h
+/home/aluno/Documentos/lucas/furgbol_io/src/calc.h
+

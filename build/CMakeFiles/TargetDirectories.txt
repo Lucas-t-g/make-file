@@ -1,0 +1,4 @@
+/home/aluno/Documentos/lucas/furgbol_io/build/CMakeFiles/rebuild_cache.dir
+/home/aluno/Documentos/lucas/furgbol_io/build/CMakeFiles/edit_cache.dir
+/home/aluno/Documentos/lucas/furgbol_io/build/CMakeFiles/fgal_operations.dir
+/home/aluno/Documentos/lucas/furgbol_io/build/CMakeFiles/test_fgal.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfurgbol_math.a  CMakeFiles/furgbol_math.dir/src/calc.cpp.o
+/usr/bin/ranlib libfurgbol_math.a
